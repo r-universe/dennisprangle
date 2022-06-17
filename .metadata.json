@@ -1,0 +1,10 @@
+[
+  {
+    "package": "abctools",
+    "oncran": true
+  },
+  {
+    "package": "gk",
+    "oncran": true
+  }
+]
