@@ -1,10 +1,10 @@
 [
   {
-    "package": "gk",
+    "package": "abctools",
     "oncran": true
   },
   {
-    "package": "abctools",
+    "package": "gk",
     "oncran": true
   }
 ]
